@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sohelrana15031996
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-end Web Development
-- 💞️ I’m looking to collaborate on Front=end Development
+- 💞️ I’m looking to collaborate on Front-end Development
 
 
 <!---
